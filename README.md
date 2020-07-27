@@ -1,4 +1,4 @@
-# Urbana_Analytics
+# Urbana Analysis
 Data Analysis of Urbana, IL and Champaign County
 
 ## Some notes about Jupyter Notebook
